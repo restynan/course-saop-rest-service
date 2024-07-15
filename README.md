@@ -22,6 +22,7 @@ The core service component that handles the logic for retrieving course details.
 
 ### Installation
 Clone the repository:
-' bash 
+```sh
 git clone https://github.com/restynan/course-integration-service.git
 cd course-integration-service
+```
